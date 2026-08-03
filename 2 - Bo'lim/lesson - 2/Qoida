@@ -1,0 +1,25 @@
+// Math.abs(x) → sonning musbat qiymati (modul).
+// Math.abs(-5) // 5
+// Math.floor(x) → pastga yaxlitlaydi.
+// Math.floor(4.9) // 4
+// Math.ceil(x) → tepaga yaxlitlaydi.
+// Math.ceil(4.1) // 5
+// Math.round(x) → eng yaqin butun songa yaxlitlaydi.
+// Math.round(4.5) // 5
+// Math.trunc(x) → kasr qismini olib tashlaydi.
+// Math.trunc(4.9) // 4
+// Math.random() → 0–1 oralig'ida tasodifiy son.
+// Math.random() // 0.73...
+// Math.min(a, b, ...) → eng kichik son.
+// Math.min(3, 7, 1) // 1
+// Math.max(a, b, ...) → eng katta son.
+// Math.max(3, 7, 1) // 7
+// Math.pow(a, b) → a ning b-darajasi.
+// Math.pow(2, 3) // 8
+// Math.sign(x) → sonning ishorasini qaytaradi.
+// -1 (manfiy), 0, 1 (musbat).
+// Math.sign(-8) // -1
+// Math.sqrt(x) → kvadrat ildiz (√).
+// Math.sqrt(25) // 5
+// Math.cbrt(x) → kub ildiz (∛).
+// Math.cbrt(27) // 3
