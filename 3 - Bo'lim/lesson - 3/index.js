@@ -29,6 +29,6 @@
 // });
 // console.log(v);
 
-let arr = ["Scratch" , "Python" , "Html" , "Css" , "Scratch" , "JS" , "React JS"];
-let i = arr.findLastIndex((value, index, a) => "Scratch" === value)
-console.log(i);
+// let arr = ["Scratch" , "Python" , "Html" , "Css" , "Scratch" , "JS" , "React JS"];
+// let i = arr.findLastIndex((value, index, a) => "Scratch" === value)
+// console.log(i);
